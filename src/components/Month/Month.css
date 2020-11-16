@@ -1,0 +1,10 @@
+.DaysOfMonth{
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+}
+
+.MonthName{
+    display: flex;
+    justify-content: center;
+    font-size: 24px;
+}
